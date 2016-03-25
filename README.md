@@ -1,3 +1,5 @@
+# Heavy work in progress
+
 # Birs - Yet another React starter (w/ parse-server)
 
 Birs is a fork of [erikas](https://github.com/erikras)'s [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) with the API replaced with [parse-server](https://github.com/ParsePlatform/parse-server). I'll try to merge as much as possible from the original repo but no promises.
