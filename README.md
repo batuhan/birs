@@ -1,17 +1,14 @@
-# React Redux Universal Hot Example
+# Birs - Yet another React starter (w/ parse-server)
 
-[![build status](https://img.shields.io/travis/erikras/react-redux-universal-hot-example/master.svg?style=flat-square)](https://travis-ci.org/erikras/react-redux-universal-hot-example)
-[![Dependency Status](https://david-dm.org/erikras/react-redux-universal-hot-example.svg?style=flat-square)](https://david-dm.org/erikras/react-redux-universal-hot-example)
-[![devDependency Status](https://david-dm.org/erikras/react-redux-universal-hot-example/dev-status.svg?style=flat-square)](https://david-dm.org/erikras/react-redux-universal-hot-example#info=devDependencies)
-[![react-redux-universal channel on discord](https://img.shields.io/badge/discord-react--redux--universal%40reactiflux-brightgreen.svg?style=flat-square)](https://discord.gg/0ZcbPKXt5bZZb1Ko)
-[![Demo on Heroku](https://img.shields.io/badge/demo-heroku-brightgreen.svg?style=flat-square)](https://react-redux.herokuapp.com)
-[![PayPal donate button](https://img.shields.io/badge/donate-paypal-brightgreen.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E2LK57ZQ9YRMN)
+Birs is a fork of [erikas](https://github.com/erikras)'s [react-redux-universal-hot-example](https://github.com/erikras/react-redux-universal-hot-example) with the API replaced with [parse-server](https://github.com/ParsePlatform/parse-server). I'll try to merge as much as possible from the original repo but no promises.
+
+I'm currently updating the docs so they may not be up to date with the changes I'll be making. 
 
 ---
 
 ## About
 
-This is a starter boilerplate app I've put together using the following technologies:
+This is a starter boilerplate app I put together using the following technologies:
 
 * ~~Isomorphic~~ [Universal](https://medium.com/@mjackson/universal-javascript-4761051b7ae9) rendering
 * Both client and server make calls to load data from separate API server
